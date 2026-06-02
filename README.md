@@ -9,54 +9,54 @@ The application allows users to discover movies, watch trailers, manage personal
 ## 📷 Application Preview
 
 <p align="center">
-  <img src="screenshots/1.png" width="30%" />
-  <img src="screenshots/2.png" width="30%" />
-  <img src="screenshots/3.png" width="30%" />
+  <img src="screenshots/1.jpg" width="30%" />
+  <img src="screenshots/2.jpg" width="30%" />
+  <img src="screenshots/3.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="screenshots/4.png" width="30%" />
-  <img src="screenshots/5.png" width="30%" />
-  <img src="screenshots/6.png" width="30%" />
+  <img src="screenshots/4.jpg" width="30%" />
+  <img src="screenshots/5.jpg" width="30%" />
+  <img src="screenshots/6.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="screenshots/7.png" width="30%" />
-  <img src="screenshots/8.png" width="30%" />
-  <img src="screenshots/9.png" width="30%" />
+  <img src="screenshots/7.jpg" width="30%" />
+  <img src="screenshots/8.jpg" width="30%" />
+  <img src="screenshots/9.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="screenshots/10.png" width="30%" />
-  <img src="screenshots/11.png" width="30%" />
-  <img src="screenshots/12.png" width="30%" />
+  <img src="screenshots/10.jpg" width="30%" />
+  <img src="screenshots/11.jpg" width="30%" />
+  <img src="screenshots/12.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="screenshots/13.png" width="30%" />
-  <img src="screenshots/14.png" width="30%" />
-  <img src="screenshots/15.png" width="30%" />
+  <img src="screenshots/13.jpg" width="30%" />
+  <img src="screenshots/14.jpg" width="30%" />
+  <img src="screenshots/15.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="screenshots/16.png" width="30%" />
-  <img src="screenshots/17.png" width="30%" />
-  <img src="screenshots/18.png" width="30%" />
+  <img src="screenshots/16.jpg" width="30%" />
+  <img src="screenshots/17.jpg" width="30%" />
+  <img src="screenshots/18.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="screenshots/19.png" width="30%" />
-  <img src="screenshots/20.png" width="30%" />
-  <img src="screenshots/21.png" width="30%" />
+  <img src="screenshots/19.jpg" width="30%" />
+  <img src="screenshots/20.jpg" width="30%" />
+  <img src="screenshots/21.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="screenshots/22.png" width="30%" />
-  <img src="screenshots/23.png" width="30%" />
-  <img src="screenshots/24.png" width="30%" />
+  <img src="screenshots/22.jpg" width="30%" />
+  <img src="screenshots/23.jpg" width="30%" />
+  <img src="screenshots/24.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="screenshots/25.png" width="30%" />
-  <img src="screenshots/26.png" width="30%" />
-  <img src="screenshots/27.png" width="30%" />
+  <img src="screenshots/25.jpg" width="30%" />
+  <img src="screenshots/26.jpg" width="30%" />
+  <img src="screenshots/27.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="screenshots/28.png" width="30%" />
-  <img src="screenshots/29.png" width="30%" />
-  <img src="screenshots/30.png" width="30%" />
+  <img src="screenshots/28.jpg" width="30%" />
+  <img src="screenshots/29.jpg" width="30%" />
+  <img src="screenshots/30.jpg" width="30%" />
 </p>
 
 
@@ -107,7 +107,7 @@ Track your movie activity with:
 * Achievements & badges.
 * Real-time updates.
 
-### 🤖 CineNova AI Assistant
+### 🤖 CineVerse AI Assistant
 
 An intelligent movie assistant capable of:
 
@@ -269,7 +269,7 @@ Ranks:
 
 # 🤖 AI Assistant
 
-The CineNova AI Assistant is designed to provide:
+The CineVerse AI Assistant is designed to provide:
 
 * Smart recommendations.
 * Movie discussions.
