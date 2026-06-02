@@ -51,7 +51,7 @@ The application allows users to discover movies, watch trailers, manage personal
 <p align="center">
   <img src="screenshots/25.jpg" width="30%" />
   <img src="screenshots/26.jpg" width="30%" />
-  <img src="screenshots/27.jpg" width="30%" />
+  <img src="screenshots/27.png" width="30%" />
 </p>
 <p align="center">
   <img src="screenshots/28.jpg" width="30%" />
