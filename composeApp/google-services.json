@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284786273670",
+    "firebase_url": "https://seestory-f1647-default-rtdb.firebaseio.com",
+    "project_id": "seestory-f1647",
+    "storage_bucket": "seestory-f1647.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284786273670:android:05b495b757ae4078471007",
+        "android_client_info": {
+          "package_name": "com.a2004256_ahmedmohamed.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284786273670-0f0598kihbk2p2pmb0dqmapjg6o60hsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU4uPCXvtCoKbtqKOgyIdAEmaaKZR7Fxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284786273670-0f0598kihbk2p2pmb0dqmapjg6o60hsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
